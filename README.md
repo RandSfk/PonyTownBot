@@ -2,7 +2,7 @@
 
 **PonyTownBot** adalah kelanjutan dari proyek sebelumnya, yaitu **PTBot** dan **PTBot_V2** yang juga dikembangkan oleh **RandSfk**. Namun kini, proyek ini telah berkembang menjadi sebuah aplikasi Android (APK), sehingga pengguna awam yang tidak memahami pemrograman dapat langsung menggunakannya tanpa perlu repot dengan script atau konfigurasi teknis lainnya.
 
-## Fitur Utama
+## Main Features
 
 - **Custom User Agent**  
   Sesuaikan User-Agent bot sesuai kebutuhan.
@@ -29,7 +29,7 @@
 
 ---
 
-## Cara Penggunaan
+## How To Use
 
 1. **Download APK Terbaru**  
    Unduh aplikasi dari channel resmi di WhatsApp:  
@@ -53,7 +53,7 @@
 
 ---
 
-## Tentang Floating Action Button di APK
+## About Floating Action Button
 
 - **1x Klik**  
   Inject manual script ke dalam game (berguna jika inject otomatis gagal)
