@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "required": true,
+  "changelog": [
+    "Rebuild aplikasi dengan peningkatan arsitektur sistem",
+    "Dukungan proses berjalan di latar belakang (mode AFK)",
+    "Pengelolaan kode yang lebih rapi dan terstruktur",
+    "Peningkatan stabilitas, performa, dan keamanan"
+  ]
+}
