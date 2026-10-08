@@ -1,10 +1,16 @@
 {
-  "version": "1.0.3 - Stable",
+  "version": "3.1 - Stable",
   "required": true,
   "changelog": [
-    "Rebuild aplikasi dengan peningkatan arsitektur sistem",
-    "Dukungan proses berjalan di latar belakang (mode AFK)",
-    "Pengelolaan kode yang lebih rapi dan terstruktur",
-    "Peningkatan stabilitas, performa, dan keamanan"
+    "Dukungan login menggunakan akun Google",
+    "Pembaruan tampilan Dashboard agar lebih modern dan nyaman digunakan",
+    "Pembaruan RandEngine Editor dengan pengalaman menulis kode yang lebih modern",
+    "Penambahan Music Player untuk memutar musik di Pony Town Bot",
+    "Pembaruan sistem notifikasi agar tidak mengganggu gameplay",
+    "Peningkatan fitur Export/Import OC yang saat ini masih dalam tahap Beta dan tersedia secara terbatas",
+    "Penyediaan Standalone APK yang terpisah dari Pony Town original",
+    "APK kini dapat diunduh langsung melalui website",
+    "Pembaruan tampilan dokumentasi agar lebih nyaman dibaca dan dinavigasi",
+    "Peningkatan stabilitas, performa, dan pengalaman penggunaan secara keseluruhan"
   ]
 }
